@@ -30,11 +30,3 @@ I'm a Computer Science student at Purdue University specializing in Machine Inte
 ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS SDK](https://img.shields.io/badge/iOS_SDK-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### Core Competencies
--   **AI/ML:** Model Development, Deep Learning, Computer Vision
--   **Systems Programming:** Concurrency, Low-Level Development
--   **Data Science:** Data Analysis, Visualization, Feature Engineering
--   **Technical Communication:** Documentation, Presentations
--   **Agile Methodologies:** Scrum, Sprints, CI/CD
-
-
